@@ -7,5 +7,7 @@ origin  https://github.com/Udayops/GitDevOps.git (fetch)
 origin  https://github.com/Udayops/GitDevOps.git (push)
 
 git push 'remote_name' 'branch_name'
+git push -u origin master
 
+$ git checkout -b "GitDevOps-Branch1"
 
