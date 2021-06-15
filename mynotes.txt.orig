@@ -15,10 +15,11 @@ deleting a branch
 $ git branch -d<branch name>
 $ git branch -d dev-phase3
 
-<<<<<<< HEAD
 hello
-
-||||||| parent of 8691d3e (mynotes commit)
-=======
+<<<<<<< HEAD
 jai
->>>>>>> 8691d3e (mynotes commit)
+||||||| e5622a4
+
+=======
+kk
+>>>>>>> dff87ba1f42c350ac7005548a1cbcf8be99ae595
