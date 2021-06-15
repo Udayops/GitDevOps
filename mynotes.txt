@@ -11,3 +11,7 @@ git push -u origin master
 
 $ git checkout -b "GitDevOps-Branch1"
 
+deleting a branch 
+$ git branch -d<branch name>
+$ git branch -d dev-phase3
+
